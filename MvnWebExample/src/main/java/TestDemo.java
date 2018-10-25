@@ -10,9 +10,8 @@ public class TestDemo {
         
     }
 
-
-    /**/
-    private int aa() {
+    public int aa() {
+        System.out.println("call aa() method !");
         return 11;
     }
 
