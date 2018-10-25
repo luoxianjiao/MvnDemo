@@ -12,5 +12,6 @@ public class Test {
     public void aa(int a) {
         System.out.println(111);
         new TestDemo().aa();
+        System.out.println(222);
     }
 }
