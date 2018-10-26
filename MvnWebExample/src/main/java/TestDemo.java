@@ -5,6 +5,7 @@ public class TestDemo {
 
     public static void main(String[] args) {
 
+        new Test().aa(111);
         System.out.println(11112);
 
         
